@@ -1,10 +1,15 @@
 import { Wrapper, Content } from "./styles";
 import PropTypes from "prop-types";
 
+import logo from "../../../assets/logo.svg";
+
 export default function AuthLayout({ children }) {
   return (
     <Wrapper>
-      <Content>{children}</Content>
+      <Content>
+        <img src={logo} alt="goBarber" />
+        {children}
+      </Content>
     </Wrapper>
   );
 }

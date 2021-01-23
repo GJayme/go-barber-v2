@@ -12,7 +12,7 @@ export default function RouteWrapper({
   ...rest
 }) {
   //TODO: seta se o usuário esta logado ou não
-  const signed = false;
+  const signed = true;
 
   // const { signed } = store.getState().auth;
 
