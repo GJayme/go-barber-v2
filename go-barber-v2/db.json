@@ -23,6 +23,17 @@
       "name": "Leonardo Freitas",
       "email": "leo@hotmail.com",
       "avatar": "https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg"
+    },
+    {
+      "name": "Demo",
+      "email": "demo@hotmail.com",
+      "senha": 1233456,
+      "id": 5
+    }
+  ],
+  "sessions": [
+    {
+      "email": "gabrielj_89@hotmail.com"
     }
   ]
 }
