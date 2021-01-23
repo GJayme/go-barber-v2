@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Gabriel Jayme",
+      "email": "gabrielj_89@hotmail.com",
+      "avatar": "https://scontent.faqa1-1.fna.fbcdn.net/v/t1.0-9/40142136_1846603845435465_1402861152098058240_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=NEPcOu2Mc6AAX_AXcZx&_nc_ht=scontent.faqa1-1.fna&oh=4b2195ead19a75c00cec53c35b642fe6&oe=602FC404"
+    },
+    {
+      "id": 2,
+      "name": "Lucas",
+      "email": "lucas@mail.com",
+      "avatar": "https://www.gamasutra.com/db_area/images/news/2018/Jun/320213/supermario64thumb1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Livia",
+      "email": "livia@hotmail.com",
+      "avatar": "https://i.pinimg.com/originals/21/3a/f0/213af0505ca2e4623dc79e6fa9cf851b.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Leonardo Freitas",
+      "email": "leo@hotmail.com",
+      "avatar": "https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg"
+    }
+  ]
+}
