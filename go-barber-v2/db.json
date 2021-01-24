@@ -35,5 +35,50 @@
     {
       "email": "gabrielj_89@hotmail.com"
     }
+  ],
+  "notifications": [
+    {
+      "read": true,
+      "_id": 115,
+      "content": "Novo agendamento para dia 24 de Abril, às 21:00h.",
+      "user": 1,
+      "createdAt": "2020-04-21T19:18:22.993Z",
+      "updatedAt": "2020-04-21T19:18:22.993Z",
+      "__v": 0
+    },
+    {
+      "read": true,
+      "_id": 116,
+      "content": "Novo agendamento para dia 24 de Abril, às 21:00h.",
+      "user": 1,
+      "createdAt": "2020-04-21T19:18:22.993Z",
+      "updatedAt": "2020-04-21T19:18:22.993Z",
+      "__v": 0
+    },
+    {
+      "read": true,
+      "_id": 117,
+      "content": "Novo agendamento para dia 24 de Abril, às 21:00h.",
+      "user": 1,
+      "createdAt": "2020-04-21T19:18:22.993Z",
+      "updatedAt": "2020-04-21T19:18:22.993Z",
+      "__v": 0
+    },
+    {
+      "read": true,
+      "_id": 118,
+      "content": "Novo agendamento para dia 24 de Abril, às 21:00h.",
+      "user": 1,
+      "createdAt": "2020-04-21T19:18:22.993Z",
+      "updatedAt": "2020-04-21T19:18:22.993Z",
+      "__v": 0
+    }
+  ],
+  "appointments":[
+    {
+      "id": 1,
+      "name": "Gabriel Jayme",
+      "email": "gabrielj_89@hotmail.com"
+    }
   ]
 }
